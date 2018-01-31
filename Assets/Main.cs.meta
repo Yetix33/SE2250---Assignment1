@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0a14542d7b28d9a4eb5e6cad3bdd9fa3
+timeCreated: 1517369439
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - container: {fileID: 1018303478386298, guid: e646e8e62af6c494aa7fd1ff492ba434,
+      type: 2}
+  - Sphere: {fileID: 1845641918381518, guid: 718c1d6335d1e524eafe9dd531202267, type: 2}
+  - Cube: {fileID: 1111572978997302, guid: 96d9a1f7d8a713b4ba7aac7dff58ec4a, type: 2}
+  - Capsule: {fileID: 1597106974348832, guid: a3afd82f54748af468ac34c4c09bd74e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
